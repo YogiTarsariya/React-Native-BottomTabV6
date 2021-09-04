@@ -1,0 +1,6 @@
+module Pods_BottomBarv6 {
+  umbrella header "Pods-BottomBarv6-umbrella.h"
+
+  export *
+  module * { export * }
+}

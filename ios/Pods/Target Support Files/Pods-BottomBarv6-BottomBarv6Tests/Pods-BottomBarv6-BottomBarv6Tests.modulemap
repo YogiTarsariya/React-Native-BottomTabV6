@@ -1,0 +1,6 @@
+module Pods_BottomBarv6_BottomBarv6Tests {
+  umbrella header "Pods-BottomBarv6-BottomBarv6Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

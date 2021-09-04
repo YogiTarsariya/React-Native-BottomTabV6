@@ -1,0 +1,14 @@
+com/bottombarv6/BuildConfig.java
+ com.bottombarv6.BuildConfig
+com/bottombarv6/MainApplication.java
+ com.bottombarv6.MainApplication
+ com.bottombarv6.MainApplication$1
+com/bottombarv6/MainActivity.java
+ com.bottombarv6.MainActivity
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/bottombarv6/ReactNativeFlipper.java
+ com.bottombarv6.ReactNativeFlipper
+ com.bottombarv6.ReactNativeFlipper$1
+ com.bottombarv6.ReactNativeFlipper$2
+ com.bottombarv6.ReactNativeFlipper$2$1
